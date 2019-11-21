@@ -1,0 +1,14 @@
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\bin\Debug\netcoreapp2.1\WebProject3.deps.json
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\bin\Debug\netcoreapp2.1\WebProject3.runtimeconfig.json
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\bin\Debug\netcoreapp2.1\WebProject3.runtimeconfig.dev.json
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\bin\Debug\netcoreapp2.1\WebProject3.dll
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\bin\Debug\netcoreapp2.1\WebProject3.pdb
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\obj\Debug\netcoreapp2.1\WebProject3.csprojAssemblyReference.cache
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\obj\Debug\netcoreapp2.1\WebProject3.csproj.CoreCompileInputs.cache
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\obj\Debug\netcoreapp2.1\WebProject3.RazorAssemblyInfo.cache
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\obj\Debug\netcoreapp2.1\WebProject3.RazorAssemblyInfo.cs
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\obj\Debug\netcoreapp2.1\WebProject3.AssemblyInfoInputs.cache
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\obj\Debug\netcoreapp2.1\WebProject3.AssemblyInfo.cs
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\obj\Debug\netcoreapp2.1\WebProject3.RazorTargetAssemblyInfo.cache
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\obj\Debug\netcoreapp2.1\WebProject3.dll
+C:\Users\eslemus\source\repos\WebProject3\WebProject3\obj\Debug\netcoreapp2.1\WebProject3.pdb
